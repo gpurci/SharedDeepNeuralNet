@@ -1,0 +1,21 @@
++++Example: +++
+Generated prompt: @this movie is@
+	this movie is
+Generated prompt: @film@
+	film
+Generated prompt: @documentary@
+	documentary
+Generated prompt: @horrible@
+	horrible
+Generated prompt: @story@
+	story
+Generated prompt: @play@
+	play
+Generated prompt: @actors@
+	actors
+Generated prompt: @characters@
+	characters
+Generated prompt: @director@
+	director
+Generated prompt: @script@
+	script
