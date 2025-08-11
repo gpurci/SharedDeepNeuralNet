@@ -1,0 +1,7 @@
+description_path: description
+input_path: inputs
+input_suffix: .png
+output_suffix: .csv
+target_path: targets
+width: 128
+channels: 3

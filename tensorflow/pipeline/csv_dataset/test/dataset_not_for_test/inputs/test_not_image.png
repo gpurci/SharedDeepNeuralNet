@@ -1,0 +1,27 @@
+names,description,rating,coord x0,coord x1,coord y0,coord y1
+all_within,,0,0,-1,0,-1
+all_without,,0,0,128,0,96
+Test_0,user_test,0,63,69,5,7
+1,user_test,0,62,68,19,21
+2,user_test,1,63,69,20,22
+3,user_test,2,64,70,21,23
+4,user_test,3,65,71,22,24
+5,user_test,4,66,72,23,25
+6,user_test,5,67,73,24,26
+7,user_test,6,68,74,25,27
+8,user_test,7,69,75,26,28
+9,user_test,8,70,76,27,29
+10,user_test,9,71,77,28,30
+11,user_test,10,72,78,29,31
+12,user_test,11,73,79,30,32
+13,user_test,12,74,80,31,33
+14,user_test,13,75,81,32,34
+15,user_test,14,76,82,33,35
+16,user_test,15,77,83,34,36
+17,user_test,16,78,84,35,37
+18,user_test,17,79,85,36,38
+19,user_test,18,80,86,37,39
+20,user_test,19,81,87,38,40
+21,user_test,20,82,88,39,41
+22,user_test,21,83,89,40,42
+23,user_test,22,84,90,41,43

@@ -1,0 +1,15 @@
+names,description,rating,coord x0,coord x1,coord y0,coord y1
+all_within,,0,0,-1,0,-1
+all_without,,0,0,128,0,96
+Test_0,user_test_0,0,63,69,5,7
+1,user_test_0,3,4,5,6,7
+2,user_test_0,4,5,6,7,8
+3,user_test_0,5,6,7,8,9
+4,user_test_0,6,7,8,9,10
+5,user_test_0,7,8,9,10,11
+6,user_test_0,8,9,10,11,12
+7,user_test_0,9,10,11,12,13
+8,user_test_0,10,11,12,13,14
+9,user_test_0,11,12,13,14,15
+10,user_test_0,12,13,14,15,16
+11,user_test_0,13,14,15,16,17
